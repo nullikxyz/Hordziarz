@@ -1,0 +1,43 @@
+{
+	"horda": "",
+	"developers": [""],
+	"channelType": {
+		"0": "Tekstowy",
+		"2": "Głosowy",
+		"4": "Kategoria",
+		"5": "Ogłoszeniowy",
+		"6": "Sklep",
+		"10": "Wątek ogłoszeniowy",
+		"11": "Wątek publiczny",
+		"12": "Wątek prywatny",
+		"13": "Scena"
+	},
+	"channelChangeKey": {
+		"name": "Nazwa",
+		"topic": "Temat",
+		"user_limit": "Limit osób",
+		"rate_limit_per_user": "Slowmode",
+		"bitrate": "Bitrate",
+		"rtc_region": "Region"
+	},
+	"voice": {
+		"channel": "",
+		"category": ""
+	},
+	"logi": {
+		"mainChannel": "",
+		"status": "",
+		"wiado": {
+			"id": "",
+			"roles": [""],
+			"channels": [""]
+		},
+		"emotki": "",
+		"invite": "",
+		"role": { "user": "", "server": "" },
+		"wejscieWyjscie": "",
+		"kanaly": ""
+	},
+	"antyArch": [""],
+	"token": ""
+}
